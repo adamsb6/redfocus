@@ -10,10 +10,14 @@ issues assigned to the user or the user's team.
 Installation
 ============
 
-`$ sudo python setup.py install`
+::
+
+$ sudo python setup.py install
 
 Usage
 =====
+
+::
 
     usage: redfocus [-h]
                                 omnifocus_folder redmine_issues_url
